@@ -1,0 +1,161 @@
+publish_date,day_num,week,page_id,slug,target_keyword,volume,kd,cluster,type,publish_reason,word_count_target,status
+2026-04-01,1,1,P001,/,homepage update,1100,52,commercial,homepage-update,"FIRST: Update homepage H1 + FAQ schema + links to /tax-answers/ hub and top 3 Q&A pages",800,todo
+2026-04-01,1,1,P002,/tax-answers/,hub page,0,0,hub,hub-build,"SAME DAY: Build /tax-answers/ hub. Homepage links to it immediately.",600,todo
+2026-04-01,1,1,P058-P061,existing blog posts,,,,,existing-update,"SAME DAY: Add I-node links to all 4 existing blog posts. Free PageRank activated.",0,todo
+2026-04-01,1,1,P062,/tax-answers/tax-filing-deadline-2025/,tax filing deadline 2025,1800,12,tax-deadlines,tax-answer,"TAX SEASON URGENT. April 15 is 14 days away. Highest seasonal traffic right now.",550,todo
+2026-04-02,2,1,P063,/tax-answers/deadline-to-file-taxes-2025/,deadline to file taxes 2025,1700,12,tax-deadlines,tax-answer,Companion to P062. Publish day 2 so they can link to each other.,500,todo
+2026-04-02,2,1,P064,/tax-answers/important-tax-dates/,important tax dates and deadlines,900,9,tax-deadlines,tax-answer,Tax deadlines cluster hub. Links to both deadline pages.,600,todo
+2026-04-03,3,1,P008,/tax-answers/what-is-sdi-tax/,what is sdi tax,1100,0,income-concepts,tax-answer,KD 0 — fastest ranking page. Starts income-concepts cluster.,500,todo
+2026-04-03,3,1,P013,/tax-answers/if-i-pay-child-support-can-i-claim-my-child-on-taxes/,if i pay child support can i claim my child on taxes,2800,0,child-family,tax-answer,KD 0 high volume. Starts child-family cluster.,600,todo
+2026-04-04,4,1,P014,/tax-answers/why-is-receiving-large-tax-refund-bad/,why is receiving a large tax refund a bad thing,1900,0,irs-refunds,tax-answer,KD 0. Starts IRS refunds cluster.,500,todo
+2026-04-04,4,1,P015,/tax-answers/what-is-tax-exempt-interest-income/,what is tax exempt interest income,1300,0,income-concepts,tax-answer,KD 0. Links to existing blog post bidirectionally.,550,todo
+2026-04-05,5,1,P016,/tax-answers/inheritance-tax-california/,inheritance tax california,1700,0,state-tax,tax-answer,KD 0 starts California cluster.,500,todo
+2026-04-06,6,1,P003,/tax-answers/what-is-backup-withholding/,what is backup withholding,12000,1,income-concepts,tax-answer,"KD 1 — highest volume KD≤1 keyword. Link from homepage directly.",600,todo
+2026-04-06,6,1,P138,/tax-answers/penalty-for-underpayment-of-estimated-tax/,penalty for underpayment of estimated tax,700,9,tax-deadlines,tax-answer,Tax season: estimated tax penalties are being calculated right now.,550,todo
+2026-04-07,7,1,P004,/tax-answers/is-homeowners-insurance-tax-deductible/,is homeowners insurance tax deductible,3000,2,insurance-deductions,tax-answer,KD 2 — starts insurance cluster. Link from homepage.,650,todo
+2026-04-07,7,1,P139,/tax-answers/safe-harbor-tax/,safe harbor tax,600,11,tax-deadlines,tax-answer,Tax season: safe harbor rule for avoiding penalties.,500,todo
+2026-04-08,8,2,P006,/tax-answers/are-funeral-expenses-tax-deductible/,are funeral expenses tax deductible,3900,2,deductions,tax-answer,KD 2 high volume. Starts deductions cluster.,550,todo
+2026-04-08,8,2,P007,/tax-answers/are-union-dues-tax-deductible/,are union dues tax deductible,3100,2,deductions,tax-answer,Second deductions page — now they can link to each other.,550,todo
+2026-04-09,9,2,P005,/tax-answers/what-is-medicare-tax/,what is medicare tax,4200,3,income-concepts,tax-answer,KD 3 high volume. Link from homepage.,600,todo
+2026-04-09,9,2,P009,/tax-answers/sdi-tax/,sdi tax,2900,2,income-concepts,tax-answer,Bidirectional with what-is-sdi-tax now live.,550,todo
+2026-04-10,10,2,P010,/tax-answers/are-gofundme-donations-tax-deductible/,are gofundme donations tax deductible,2500,4,deductions,tax-answer,Third deductions page — cluster forming.,500,todo
+2026-04-10,10,2,P011,/tax-answers/is-car-insurance-tax-deductible/,is car insurance tax deductible,1600,2,insurance-deductions,tax-answer,Second insurance page — links to homeowners now live.,550,todo
+2026-04-11,11,2,P012,/tax-answers/are-closing-costs-tax-deductible/,are closing costs tax deductible,1500,2,insurance-deductions,tax-answer,Connects insurance + deductions clusters.,600,todo
+2026-04-11,11,2,P073,/tax-answers/irs-form-843/,843,2800,3,irs-forms,tax-answer,High volume KD 3. Starts IRS forms cluster.,600,todo
+2026-04-12,12,2,P019,/tax-answers/irs-treas-310-tax-ref/,irs treas 310 tax ref,5900,5,irs-refunds,tax-answer,"Tax season peak: refunds being sent RIGHT NOW. High urgency.",600,todo
+2026-04-12,12,2,P020,/tax-answers/how-long-tax-refund-show-bank-account/,how long does it take for tax refund to show in bank account,17000,13,irs-refunds,tax-answer,"FLAGSHIP PAGE. Peak relevance: April-May refund season. Publish NOW.",700,todo
+2026-04-13,13,2,P032,/tax-answers/irs-treas-310/,irs treas 310,5400,10,irs-refunds,tax-answer,Completes IRS TREAS 310 cluster. Bidirectional with all refund pages.,600,todo
+2026-04-13,13,2,P145,/tax-answers/where-is-my-amended-return/,where's my amended return refund,800,0,irs-refunds,tax-answer,KD 0. April = amended return season.,500,todo
+2026-04-14,14,2,P144,/tax-answers/how-long-does-it-take-to-approve-tax-refund/,how long does it take to approve tax refund,600,10,irs-refunds,tax-answer,Companion to flagship P020 — approval vs bank appearance.,450,todo
+2026-04-14,14,2,P146,/tax-answers/i-received-state-refund-but-not-federal/,i received state refund but not federal,700,0,irs-refunds,tax-answer,KD 0. Peak season anxiety query.,450,todo
+2026-04-15,15,3,P130,/tax-answers/are-tax-refunds-taxable/,are tax refunds taxable,600,1,irs-refunds,tax-answer,"TAX DAY! April 15. Publish refund-related content. KD 1.",450,todo
+2026-04-15,15,3,P118,/tax-answers/apa-treas-310-misc-pay/,apa treas 310 misc pay,800,1,irs-refunds,tax-answer,Extends IRS codes cluster. KD 1.,450,todo
+2026-04-16,16,3,P021,/tax-answers/tax-exempt-interest-income/,tax exempt interest income,5200,3,income-concepts,tax-answer,High volume KD 3. Bidirectional with what-is-tax-exempt now live.,600,todo
+2026-04-16,16,3,P038,/tax-answers/taxable-interest/,taxable interest,1100,12,income-concepts,tax-answer,Completes interest income sub-cluster.,550,todo
+2026-04-17,17,3,P018,/tax-answers/backup-withholding/,backup withholding,13000,10,income-concepts,tax-answer,"Highest volume keyword. what-is-backup-withholding live — bidirectional now.",650,todo
+2026-04-17,17,3,P044,/tax-answers/backup-withholding-meaning/,backup withholding meaning,2300,2,income-concepts,tax-answer,Third backup withholding page — cluster complete.,500,todo
+2026-04-18,18,3,P127,/tax-answers/am-i-subject-to-backup-withholding/,am i subject to backup withholding,700,5,income-concepts,tax-answer,Closes backup withholding cluster.,500,todo
+2026-04-18,18,3,P148,/tax-answers/what-is-backup-withholding-tax/,what is backup withholding tax,600,7,income-concepts,tax-answer,Short disambiguation — links to main cluster pages.,400,todo
+2026-04-19,19,3,P147,/tax-answers/what-is-1099-int/,1099-int,5200,17,irs-forms,tax-answer,"High volume even at KD 17. Interest income cluster needs this.",600,todo
+2026-04-19,19,3,P095,/tax-answers/tax-exempt-interest/,tax exempt interest,900,3,income-concepts,tax-answer,Fourth interest income variation — closes cluster.,450,todo
+2026-04-20,20,3,P128,/tax-answers/what-is-tax-exempt-interest/,what is tax exempt interest,600,0,income-concepts,tax-answer,KD 0 — fifth interest variation. Short page.,450,todo
+2026-04-20,20,3,P022,/tax-answers/california-capital-gains-tax/,california capital gains tax,4500,4,state-tax,tax-answer,California cluster — inheritance page already live for linking.,650,todo
+2026-04-21,21,3,P029,/tax-answers/does-california-tax-social-security/,does california tax social security,3700,7,state-tax,tax-answer,Bidirectional with california-capital-gains now live.,500,todo
+2026-04-21,21,3,P094,/tax-answers/does-florida-tax-social-security-benefits/,does florida tax social security,900,7,state-tax,tax-answer,Proper answer page — our blog post links to this.,450,todo
+2026-04-22,22,3,P030,/tax-answers/capital-gains-tax-florida/,capital gains tax florida,3300,11,state-tax,tax-answer,Extends state cluster to Florida.,550,todo
+2026-04-22,22,3,P104,/tax-answers/inheritance-tax-florida/,inheritance tax florida,900,2,state-tax,tax-answer,KD 2. Florida no-inheritance-tax cluster.,450,todo
+2026-04-23,23,4,P035,/tax-answers/california-inheritance-tax/,california inheritance tax,1100,2,state-tax,tax-answer,Second California inheritance page — bidirectional.,500,todo
+2026-04-23,23,4,P036,/tax-answers/prop-19-loopholes/,prop 19 loopholes,1100,0,state-tax,tax-answer,KD 0 — California property cluster.,650,todo
+2026-04-24,24,4,P037,/tax-answers/is-social-security-taxable-in-california/,is social security taxable in california,1100,11,state-tax,tax-answer,Completes California social security sub-cluster.,550,todo
+2026-04-24,24,4,P116,/tax-answers/florida-estate-tax/,florida estate tax,800,4,state-tax,tax-answer,Florida cluster completion.,450,todo
+2026-04-25,25,4,P134,/tax-answers/does-florida-have-an-inheritance-tax/,does florida have an inheritance tax,600,2,state-tax,tax-answer,Short companion. Florida inheritance cluster complete.,400,todo
+2026-04-25,25,4,P125,/tax-answers/inheritance-tax-in-california/,inheritance tax in california,700,1,state-tax,tax-answer,Short companion. California inheritance cluster complete.,400,todo
+2026-04-26,26,4,P088,/tax-answers/alabama-business-privilege-tax/,alabama business privilege tax,1100,2,state-tax,tax-answer,State cluster expansion — Alabama business tax.,550,todo
+2026-04-26,26,4,P089,/tax-answers/how-to-avoid-pennsylvania-inheritance-tax/,how to avoid pennsylvania inheritance tax,1000,2,state-tax,tax-answer,KD 2 state expansion.,600,todo
+2026-04-27,27,4,P103,/tax-answers/sales-tax-in-louisiana/,sales tax in louisiana,900,10,state-tax,tax-answer,State tax cluster — Louisiana.,500,todo
+2026-04-27,27,4,P126,/tax-answers/louisiana-sales-tax-rate/,louisiana sales tax rate,700,12,state-tax,tax-answer,Companion to Louisiana page.,500,todo
+2026-04-28,28,4,P143,/tax-answers/nevada-modified-business-tax/,nevada modified business tax,800,4,state-tax,tax-answer,State business tax cluster — Nevada.,550,todo
+2026-04-29,29,4,P077,/tax-answers/california-sdi-tax/,california sdi tax,1400,11,state-tax,tax-answer,Completes CA SDI cluster. Bidirectional with sdi-tax pages.,500,todo
+2026-04-29,29,4,P099,/tax-answers/what-is-ny-pfl/,what is ny pfl,900,2,state-tax,tax-answer,NY payroll tax cluster.,550,todo
+2026-04-30,30,4,P100,/tax-answers/ny-pfl-taxes/,ny pfl taxes,700,7,state-tax,tax-answer,Companion to NY PFL page.,500,todo
+2026-04-30,30,4,P137,/tax-answers/what-is-ny-pfl-tax/,nypfl w2,600,6,state-tax,tax-answer,W-2 box 14 NYPFL — closes NY PFL cluster.,450,todo
+2026-05-01,31,5,P051,/guides/irs-treas-310/,irs treas 310,5400,10,irs-refunds,guide,"FIRST GUIDE. All 8 IRS refund pages now live. Guide links to all of them.",2500,todo
+2026-05-02,32,5,P052,/guides/backup-withholding/,backup withholding,13000,10,income-concepts,guide,Second guide. All 4 backup withholding pages live.,2500,todo
+2026-05-03,33,5,P005,/tax-answers/what-is-medicare-tax/,,4200,3,income-concepts,interlink-update,Go back and update homepage + /tax-answers/ hub to link to income-concepts cluster hub page,0,todo
+2026-05-03,33,5,P024,/tax-answers/are-medicare-premiums-tax-deductible/,are medicare premiums tax deductible,2200,4,income-concepts,tax-answer,Medicare cluster — what-is-medicare-tax live.,600,todo
+2026-05-04,34,5,P005b,/tax-answers/what-is-the-medicare-tax-rate/,what is the medicare tax rate,800,6,income-concepts,tax-answer,Rate-focused companion to P005.,500,todo
+2026-05-04,34,5,P042,/tax-answers/are-disability-benefits-taxable/,are disability benefits taxable,1200,8,income-concepts,tax-answer,Medicare/disability cluster.,600,todo
+2026-05-05,35,5,P096,/tax-answers/is-long-term-disability-taxable/,is long term disability taxable,900,2,income-concepts,tax-answer,KD 2. Extends disability sub-cluster.,550,todo
+2026-05-05,35,5,P108,/tax-answers/is-disability-insurance-tax-deductible/,is disability insurance tax deductible,800,4,insurance-deductions,tax-answer,Insurance + disability crossover page.,500,todo
+2026-05-06,36,5,P025,/tax-answers/are-401k-contributions-tax-deductible/,are 401k contributions tax deductible,1900,7,deductions,tax-answer,Retirement deductions cluster.,600,todo
+2026-05-06,36,5,P026,/tax-answers/do-you-report-roth-ira-on-taxes/,do you report roth ira on taxes,2100,3,deductions,tax-answer,Bidirectional with 401k page.,550,todo
+2026-05-07,37,5,P079,/tax-answers/do-i-need-to-report-roth-ira-on-taxes/,do i need to report roth ira on taxes,1400,12,deductions,tax-answer,Third Roth IRA phrasing — completes cluster.,500,todo
+2026-05-07,37,5,P123,/tax-answers/1099-r-taxable-amount/,1099-r taxable amount,700,1,irs-forms,tax-answer,Retirement + 1099 crossover.,550,todo
+2026-05-08,38,5,P027,/tax-answers/is-severance-pay-taxable/,is severance pay taxable,1600,6,deductions,tax-answer,Deductions cluster.,550,todo
+2026-05-08,38,5,P111,/tax-answers/how-is-severance-pay-taxed/,how is severance pay taxed,800,2,deductions,tax-answer,Companion to P027 — bidirectional.,500,todo
+2026-05-09,39,5,P028,/tax-answers/qualifying-widower/,qualifying widower,2800,10,child-family,tax-answer,Child-family cluster — if-i-pay-child-support live.,600,todo
+2026-05-09,39,5,P033,/tax-answers/if-you-pay-child-support-can-you-claim-child-on-taxes-2026/,if you pay child support can you claim the child on your taxes 2026,2900,12,child-family,tax-answer,Companion page — bidirectional.,600,todo
+2026-05-10,40,6,P040,/tax-answers/can-father-claim-child-on-taxes/,can father claim child on taxes if child does not live with him,1300,5,child-family,tax-answer,Child-family cluster core.,600,todo
+2026-05-10,40,6,P093,/tax-answers/can-i-claim-my-boyfriend-as-a-dependent/,can i claim my boyfriend as a dependent,1000,4,child-family,tax-answer,Expands dependent cluster beyond children.,550,todo
+2026-05-11,41,6,P109,/tax-answers/can-my-boyfriend-claim-me-as-a-dependent/,can my boyfriend claim me as a dependent,800,3,child-family,tax-answer,Reverse of P093 — bidirectional.,500,todo
+2026-05-11,41,6,P124,/tax-answers/can-i-claim-my-fiance-as-a-dependent/,can i claim my fiance as a dependent,700,3,child-family,tax-answer,Completes unmarried partner dependent cluster.,500,todo
+2026-05-12,42,6,P049,/tax-answers/can-you-file-head-of-household-if-married/,can you file head of household if married,1800,14,child-family,tax-answer,Filing status — child-family cluster.,550,todo
+2026-05-12,42,6,P081,/tax-answers/can-you-file-married-filing-separately/,can you file married filing separately,1200,15,filing-status,tax-answer,Filing status cluster.,600,todo
+2026-05-13,43,6,P082,/tax-answers/when-to-file-married-filing-separately/,when to file married filing separately,1100,14,filing-status,tax-answer,Companion — bidirectional.,550,todo
+2026-05-13,43,6,P141,/tax-answers/dependent-care-benefits-w2/,dependent care benefits w2,600,2,child-family,tax-answer,W-2 box 14 — child care cluster extension.,500,todo
+2026-05-14,44,6,P106,/tax-answers/is-preschool-tax-deductible/,is preschool tax deductible,800,3,deductions,tax-answer,Child care deductions cluster.,500,todo
+2026-05-14,44,6,P043,/tax-answers/is-private-school-tuition-tax-deductible/,is private school tuition tax deductible,1300,7,deductions,tax-answer,Education deductions cluster.,550,todo
+2026-05-15,45,6,P131,/tax-answers/is-pell-grant-taxable/,is pell grant taxable,600,0,income-concepts,tax-answer,KD 0 education income cluster.,450,todo
+2026-05-15,45,6,P133,/tax-answers/are-scholarships-taxable-income/,are scholarships taxable income,600,4,income-concepts,tax-answer,Education income cluster.,450,todo
+2026-05-16,46,6,P113,/tax-answers/are-grants-taxable/,are grants taxable,800,7,income-concepts,tax-answer,Business + education grants cluster.,550,todo
+2026-05-16,46,6,P132,/tax-answers/is-paid-family-leave-taxable/,is paid family leave taxable,600,3,income-concepts,tax-answer,PFL taxability — connects CA SDI + NY PFL clusters.,500,todo
+2026-05-17,47,6,P034,/tax-answers/what-is-tax-liability-zero/,what is tax liability zero mean,2500,4,income-concepts,tax-answer,Income concepts cluster.,550,todo
+2026-05-17,47,6,P047,/tax-answers/zero-tax-program/,zero tax program,2400,1,income-concepts,tax-answer,Bidirectional with tax-liability-zero.,600,todo
+2026-05-18,48,6,P074,/tax-answers/tax-compliance/,tax compliance,2100,9,income-concepts,tax-answer,Compliance + enforcement cluster.,600,todo
+2026-05-18,48,6,P050,/tax-answers/tax-abatement-meaning/,tax abatement meaning,2100,2,income-concepts,tax-answer,Abatement — connects compliance + forms.,550,todo
+2026-05-19,49,7,P080,/tax-answers/what-is-a-tax-abatement/,what is a tax abatement,1400,3,income-concepts,tax-answer,Bidirectional with abatement-meaning.,550,todo
+2026-05-19,49,7,P110,/tax-answers/state-tax-levy/,state tax levy,800,4,specialty-tax,tax-answer,Compliance cluster — state enforcement.,550,todo
+2026-05-20,50,7,P122,/tax-answers/cp2000-response-letter/,cp2000 response letter sample,700,2,specialty-tax,tax-answer,IRS notice response — compliance cluster.,600,todo
+2026-05-20,50,7,P149,/tax-answers/tax-warrant-meaning/,tax warrant meaning,150,0,specialty-tax,tax-answer,KD 0 featured snippet opportunity.,450,todo
+2026-05-21,51,7,P041,/tax-answers/unreimbursed-employee-expenses/,unreimbursed employee expenses,1300,8,deductions,tax-answer,Employment deductions cluster.,550,todo
+2026-05-21,51,7,P048,/tax-answers/job-expenses-w2-income/,job expenses for w-2 income,1600,6,deductions,tax-answer,W-2 employment expenses cluster.,600,todo
+2026-05-22,52,7,P142,/tax-answers/is-car-loan-interest-tax-deductible/,is car loan interest tax deductible,700,6,deductions,tax-answer,Car tax cluster — links to car insurance page.,450,todo
+2026-05-22,52,7,P039,/tax-answers/is-mortgage-insurance-tax-deductible/,is mortgage insurance tax deductible,1300,5,insurance-deductions,tax-answer,Completes mortgage insurance sub-cluster.,500,todo
+2026-05-23,53,7,P102,/tax-answers/are-mortgage-insurance-premiums-deductible/,are mortgage insurance premiums deductible,900,9,insurance-deductions,tax-answer,Companion — bidirectional.,500,todo
+2026-05-23,53,7,P115,/tax-answers/are-long-term-care-premiums-tax-deductible/,are long term care premiums tax deductible,800,2,insurance-deductions,tax-answer,Insurance cluster expansion.,550,todo
+2026-05-24,54,7,P150,/tax-answers/is-hazard-insurance-tax-deductible/,is hazard insurance tax deductible,500,1,insurance-deductions,tax-answer,KD 1 — featured snippet target.,450,todo
+2026-05-24,54,7,P045,/tax-answers/is-home-insurance-tax-deductible/,is home insurance tax deductible,2300,2,insurance-deductions,tax-answer,Completes homeowners insurance cluster.,500,todo
+2026-05-25,55,7,P053,/guides/homeowner-tax-deductions/,is homeowners insurance tax deductible,3000,2,insurance-deductions,guide,Third pillar guide. All 8 homeowner/insurance pages live.,2500,todo
+2026-05-26,56,7,P054,/guides/medicare-social-security-tax/,what is medicare tax,4200,3,income-concepts,guide,Fourth guide. All Medicare/SDI/disability pages live.,2500,todo
+2026-05-27,57,8,P065,/tax-answers/principal-business-code-lookup/,principal business code lookup,4900,4,business-self-employed,tax-answer,Business cluster start. High volume KD 4.,600,todo
+2026-05-27,57,8,P078,/tax-answers/business-activity-code-lookup/,business activity code lookup,1400,9,business-self-employed,tax-answer,Companion to P065.,550,todo
+2026-05-28,58,8,P075,/tax-answers/cpa-questions/,cpa questions,1900,1,business-self-employed,tax-answer,CPA cluster.,650,todo
+2026-05-28,58,8,P076,/tax-answers/how-much-do-cpas-make/,how much do cpas make,1900,9,business-self-employed,tax-answer,CPA cluster — bidirectional.,550,todo
+2026-05-29,59,8,P085,/tax-answers/tax-strategist/,tax strategist,1100,0,business-self-employed,tax-answer,KD 0. Business/professional cluster.,500,todo
+2026-05-29,59,8,P135,/tax-answers/guaranteed-payments/,guaranteed payments,800,3,business-self-employed,tax-answer,Partnership payments — business cluster.,600,todo
+2026-05-30,60,8,P066,/tax-answers/what-type-of-tax-for-retired-people/,what type of tax for retired people and people with disabilities,4900,3,income-concepts,tax-answer,High volume KD 3 — retiree tax cluster.,550,todo
+2026-05-30,60,8,P072,/tax-answers/which-types-of-income-tax-do-people-pay/,which are types of income tax people pay,2100,0,income-concepts,tax-answer,KD 0 educational cluster.,550,todo
+2026-05-31,61,8,P067,/tax-answers/macrs-depreciation/,macrs,4800,15,business-self-employed,tax-answer,Business deduction — depreciation cluster.,700,todo
+2026-05-31,61,8,P083,/tax-answers/qip/,qip,1200,1,business-self-employed,tax-answer,QIP connects to MACRS cluster.,550,todo
+2026-06-01,62,8,P068,/tax-answers/suppressor-tax-stamp/,suppressor tax stamp,2600,2,specialty-tax,tax-answer,Suppressor tax cluster start. KD 2.,600,todo
+2026-06-01,62,8,P069,/tax-answers/tax-stamp-for-suppressor/,tax stamp for suppressor,1700,4,specialty-tax,tax-answer,Companion. Bidirectional.,550,todo
+2026-06-02,63,8,P070,/tax-answers/how-to-get-a-suppressor-tax-stamp/,how to get a suppressor tax stamp,600,0,specialty-tax,tax-answer,KD 0. Step-by-step format.,500,todo
+2026-06-02,63,8,P071,/tax-answers/tax-stamp/,tax stamp,2400,3,specialty-tax,tax-answer,Broad suppressor cluster hub.,500,todo
+2026-06-03,64,9,P120,/tax-answers/silencer-tax-stamp/,silencer tax stamp,700,2,specialty-tax,tax-answer,Completes suppressor cluster.,400,todo
+2026-06-03,64,9,P084,/tax-answers/mud-tax/,mud tax,1100,9,specialty-tax,tax-answer,Specialty tax cluster expansion.,500,todo
+2026-06-04,65,9,P090,/tax-answers/augusta-tax-rule/,augusta tax rule,1000,4,specialty-tax,tax-answer,Specialty tax — 14-day home rental.,550,todo
+2026-06-04,65,9,P136,/tax-answers/irc-368/,irc 368,1000,5,specialty-tax,tax-answer,Corporate reorganization specialty page.,600,todo
+2026-06-05,66,9,P092,/tax-answers/are-reinvested-dividends-taxable/,are reinvested dividends taxable,1000,6,income-concepts,tax-answer,Portfolio income cluster extension.,500,todo
+2026-06-05,66,9,P086,/tax-answers/portfolio-income/,portfolio income,1100,11,income-concepts,tax-answer,Portfolio income cluster hub.,550,todo
+2026-06-06,67,9,P087,/tax-answers/cash-in-lieu/,cash in lieu,1100,0,income-concepts,tax-answer,KD 0. Cash in lieu of shares cluster.,500,todo
+2026-06-06,67,9,P097,/tax-answers/pre-tax-vs-post-tax/,pre tax vs post tax,900,5,income-concepts,tax-answer,Pre/post-tax cluster hub.,600,todo
+2026-06-07,68,9,P098,/tax-answers/is-health-insurance-pre-tax/,is health insurance pre tax,900,4,income-concepts,tax-answer,Pre-tax cluster — bidirectional.,500,todo
+2026-06-07,68,9,P107,/tax-answers/which-is-better-pre-tax-or-after-tax-health-insurance/,which is better pre tax or after-tax health insurance,800,1,income-concepts,tax-answer,Comparison — pre/post-tax cluster.,550,todo
+2026-06-08,69,9,P105,/tax-answers/do-corporations-get-1099/,do corporations get 1099,900,3,irs-forms,tax-answer,1099 entity cluster hub.,550,todo
+2026-06-08,69,9,P112,/tax-answers/does-an-s-corp-get-a-1099/,does an s corp get a 1099,800,0,irs-forms,tax-answer,KD 0. 1099 entity cluster.,450,todo
+2026-06-09,70,9,P121,/tax-answers/does-an-llc-get-a-1099/,does an llc get a 1099,700,2,irs-forms,tax-answer,1099 entity cluster.,450,todo
+2026-06-09,70,9,P119,/tax-answers/do-partnerships-get-1099/,do partnerships get 1099,700,0,irs-forms,tax-answer,KD 0. Completes entity 1099 cluster.,450,todo
+2026-06-10,71,10,P091,/tax-answers/1099-patr/,1099-patr,1000,0,irs-forms,tax-answer,KD 0. Cooperative patronage.,500,todo
+2026-06-10,71,10,P114,/tax-answers/what-is-1099-g/,what is 1099-g,800,7,irs-forms,tax-answer,1099-G unemployment + state refunds.,500,todo
+2026-06-11,72,10,P031,/tax-answers/1099c-form/,1099c,3200,6,irs-forms,tax-answer,Cancelled debt 1099 cluster.,600,todo
+2026-06-11,72,10,P046,/tax-answers/do-llc-get-1099/,do llc get 1099,1800,1,irs-forms,tax-answer,KD 1. Entity 1099 cluster.,600,todo
+2026-06-12,73,10,P129,/tax-answers/what-is-a-blended-tax-rate/,what is a blended tax rate,600,0,income-concepts,tax-answer,KD 0. Marriage year rate.,450,todo
+2026-06-12,73,10,P101,/tax-answers/sdi-tax-meaning/,sdi tax meaning,900,0,income-concepts,tax-answer,KD 0 — third SDI page.,450,todo
+2026-06-13,74,10,P023,/tax-answers/afr-rates/,afr rates,5300,7,income-concepts,tax-answer,AFR cluster hub.,600,todo
+2026-06-13,74,10,P074b,/tax-answers/afr-rate/,afr rate,1700,5,income-concepts,tax-answer,Companion. Bidirectional.,500,todo
+2026-06-14,75,10,P023b,/tax-answers/applicable-federal-rate/,applicable federal rate,4200,12,income-concepts,tax-answer,Third AFR page — cluster complete.,550,todo
+2026-06-14,75,10,P017,/tax-answers/do-gift-cards-have-tax/,do gift cards have tax,1200,0,deductions,tax-answer,KD 0. Gift tax cluster.,500,todo
+2026-06-15,76,10,P140,/tax-answers/what-is-a-qdro/,what is a qdro,800,6,specialty-tax,tax-answer,QDRO — divorce + retirement cluster.,600,todo
+2026-06-15,76,10,P129b,/tax-answers/guaranteed-payments-partnership/,guaranteed payments,800,3,business-self-employed,tax-answer,Business cluster completion.,550,todo
+2026-06-16,77,11,P055,/guides/california-tax-guide/,california capital gains tax,4500,4,state-tax,guide,Fifth guide. All California pages live.,3000,todo
+2026-06-17,78,11,P056,/guides/child-tax-benefits/,if you pay child support,2900,12,child-family,guide,Sixth guide. All child-family pages live.,2500,todo
+2026-06-18,79,11,P057,/guides/overlooked-tax-deductions/,are funeral expenses tax deductible,3900,2,deductions,guide,Seventh guide. All deductions pages live.,2500,todo
+2026-06-19,80,11,P065b,/guides/business-tax-guide/,principal business code lookup,4900,4,business-self-employed,guide,Eighth guide. Business cluster complete.,2500,todo
+2026-06-20,81,11,,REVIEW WEEK — no new publishes,,,,,,Review GSC data. Identify which pages are ranking. Update top performers with fresh data.,0,todo
+2026-06-21,82,11,,UPDATE: Refresh AFR rates page with latest monthly rates,,,,,,Monthly AFR rates update — unpredictable but consistent signal to Google crawl AI,0,todo
+2026-06-23,83,12,P129c,/tax-answers/union-dues-tax-deductible/,union dues tax deductible,900,0,deductions,tax-answer,KD 0 companion to are-union-dues cluster.,450,todo
+2026-06-23,83,12,P129d,/tax-answers/sdi-tax-california/,sdi tax california,0,0,state-tax,tax-answer,Final CA SDI page — closes cluster.,450,todo
+2026-06-24,84,12,,BUFFER — publish any delayed pages from weeks 1-11,,,,,,Catch-up week,0,todo
+2026-06-25,85,12,P129e,/tax-answers/what-is-a-1099-c-form/,1099 c form,2000,9,irs-forms,tax-answer,1099-C companion — different phrasing.,550,todo
+2026-06-28,88,12,,FINAL REVIEW — submit all pages to GSC,,,,,,URL inspection tool — batch submit all unpublished pages,0,todo
+2026-06-30,90,12,,90-DAY CHECKPOINT: Pull Ahrefs report,,,,,,Compare actual traffic to 5000-6000 target,0,todo

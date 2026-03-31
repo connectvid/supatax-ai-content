@@ -1,0 +1,56 @@
+keyword,volume,kd,intent,cluster,primary_page_slug,secondary_pages,serp_features,taxgpt_position,taxgpt_traffic,our_target_position,est_traffic_at_target
+what is backup withholding,12000,1,informational,income-concepts,/tax-answers/what-is-backup-withholding/,/guides/backup-withholding/,"AI Overview, People also ask",0,0,1-3,600-900
+backup withholding,13000,10,informational,income-concepts,/tax-answers/backup-withholding/,/guides/backup-withholding/ | /tax-answers/what-is-backup-withholding/,"AI Overview, People also ask",93,0,3-5,400-600
+backup withholding meaning,2300,2,informational,income-concepts,/tax-answers/backup-withholding-meaning/,/tax-answers/backup-withholding/ | /tax-answers/what-is-backup-withholding/,"People also ask, Sitelinks",0,0,1-3,150-250
+how long does it take for tax refund to show in bank account after approved,17000,13,informational,irs-refunds,/tax-answers/how-long-tax-refund-show-bank-account/,/guides/irs-treas-310/,"AI Overview, Top stories, People also ask",18,89,3-5,500-700
+irs treas 310 tax ref,5900,5,informational,irs-refunds,/tax-answers/irs-treas-310-tax-ref/,/guides/irs-treas-310/ | /tax-answers/irs-treas-310/,"AI Overview, People also ask, Video",6,697,1-3,350-500
+irs treas 310,5400,10,informational,irs-refunds,/tax-answers/irs-treas-310/,/guides/irs-treas-310/ | /tax-answers/irs-treas-310-tax-ref/,"AI Overview, People also ask, Sitelinks",9,226,3-5,200-350
+irs treasury 310,600,11,informational,irs-refunds,/tax-answers/irs-treas-310/,,People also ask,5,56,3-5,30-60
+why is receiving a large tax refund a bad thing,1900,0,informational,irs-refunds,/tax-answers/why-is-receiving-large-tax-refund-bad/,,"AI Overview, People also ask",10,60,1-3,120-200
+tax exempt interest income,5200,3,informational,income-concepts,/tax-answers/tax-exempt-interest-income/,/tax-answers/what-is-tax-exempt-interest-income/,"AI Overview, People also ask",7,139,1-3,300-450
+what is tax exempt interest income,1300,0,informational,income-concepts,/tax-answers/what-is-tax-exempt-interest-income/,/tax-answers/tax-exempt-interest-income/,"AI Overview, People also ask",5,73,1-2,130-200
+taxable interest,1100,12,informational,income-concepts,/tax-answers/taxable-interest/,,"AI Overview, People also ask",0,0,3-5,50-100
+what is medicare tax,4200,3,informational,income-concepts,/tax-answers/what-is-medicare-tax/,/guides/medicare-social-security-tax/,"AI Overview, People also ask",0,0,1-3,250-400
+are medicare premiums tax deductible,2200,4,informational,income-concepts,/tax-answers/are-medicare-premiums-tax-deductible/,/guides/medicare-social-security-tax/,"AI Overview, People also ask",0,0,2-4,120-200
+what is sdi tax,1100,0,informational,income-concepts,/tax-answers/what-is-sdi-tax/,/tax-answers/sdi-tax/ | /guides/medicare-social-security-tax/,"People also ask",0,0,1-2,150-250
+sdi tax,2900,2,informational,income-concepts,/tax-answers/sdi-tax/,/tax-answers/what-is-sdi-tax/ | /guides/medicare-social-security-tax/,"AI Overview, People also ask",23,0,1-3,180-280
+are disability benefits taxable,1200,8,informational,income-concepts,/tax-answers/are-disability-benefits-taxable/,,"AI Overview, People also ask",0,0,3-5,50-100
+zero tax program,2400,1,informational,income-concepts,/tax-answers/zero-tax-program/,/tax-answers/what-is-tax-liability-zero/,"People also ask",0,0,1-3,200-350
+what is tax liability zero mean,2500,4,informational,income-concepts,/tax-answers/what-is-tax-liability-zero/,/tax-answers/zero-tax-program/,"AI Overview, People also ask",18,13,2-5,80-150
+do llc get 1099,1800,1,informational,income-concepts,/tax-answers/do-llc-get-1099/,,"People also ask, Sitelinks",15,7,1-3,100-200
+1099c,3200,6,informational,income-concepts,/tax-answers/1099c-form/,,"AI Overview, People also ask",0,0,2-4,100-200
+is homeowners insurance tax deductible,3000,2,informational,insurance-deductions,/tax-answers/is-homeowners-insurance-tax-deductible/,/guides/homeowner-tax-deductions/,"AI Overview, People also ask",66,0,1-3,200-320
+is home insurance tax deductible,2300,2,informational,insurance-deductions,/tax-answers/is-home-insurance-tax-deductible/,/guides/homeowner-tax-deductions/ | /tax-answers/is-homeowners-insurance-tax-deductible/,"AI Overview, People also ask",51,0,1-3,150-250
+is car insurance tax deductible,1600,2,informational,insurance-deductions,/tax-answers/is-car-insurance-tax-deductible/,,"AI Overview, People also ask",0,0,1-3,100-200
+is mortgage insurance tax deductible,1300,5,informational,insurance-deductions,/tax-answers/is-mortgage-insurance-tax-deductible/,/guides/homeowner-tax-deductions/,"AI Overview, People also ask",0,0,2-4,60-120
+are closing costs tax deductible,1500,2,informational,insurance-deductions,/tax-answers/are-closing-costs-tax-deductible/,/guides/homeowner-tax-deductions/,"AI Overview, People also ask",0,0,1-3,100-180
+are funeral expenses tax deductible,3900,2,informational,deductions,/tax-answers/are-funeral-expenses-tax-deductible/,/guides/overlooked-tax-deductions/,"AI Overview, People also ask",61,0,1-3,250-400
+are union dues tax deductible,3100,2,informational,deductions,/tax-answers/are-union-dues-tax-deductible/,/guides/overlooked-tax-deductions/,"AI Overview, People also ask",36,0,1-3,200-320
+are gofundme donations tax deductible,2500,4,informational,deductions,/tax-answers/are-gofundme-donations-tax-deductible/,,"AI Overview, People also ask",29,0,2-4,100-200
+are 401k contributions tax deductible,1900,7,informational,deductions,/tax-answers/are-401k-contributions-tax-deductible/,,"AI Overview, People also ask",46,0,2-5,80-150
+do you report roth ira on taxes,2100,3,informational,deductions,/tax-answers/do-you-report-roth-ira-on-taxes/,,"AI Overview, People also ask",20,4,2-4,80-150
+is severance pay taxable,1600,6,informational,deductions,/tax-answers/is-severance-pay-taxable/,,"AI Overview, People also ask",0,0,2-4,60-120
+unreimbursed employee expenses,1300,8,informational,deductions,/tax-answers/unreimbursed-employee-expenses/,,"AI Overview, People also ask",0,0,2-5,50-100
+is private school tuition tax deductible,1300,7,informational,deductions,/tax-answers/is-private-school-tuition-tax-deductible/,,"AI Overview, People also ask",0,0,2-4,60-100
+do gift cards have tax,1200,0,informational,deductions,/tax-answers/do-gift-cards-have-tax/,,"AI Overview, People also ask",0,0,1-3,100-200
+job expenses for w-2 income,1600,6,informational,deductions,/tax-answers/job-expenses-w2-income/,,"AI Overview, People also ask",0,0,2-4,60-120
+tax abatement meaning,2100,2,informational,income-concepts,/tax-answers/tax-abatement-meaning/,,"AI Overview, People also ask",0,0,1-3,150-250
+california capital gains tax,4500,4,informational,state-tax,/tax-answers/california-capital-gains-tax/,/guides/california-tax-guide/,"AI Overview, People also ask",39,0,2-4,150-250
+capital gains tax florida,3300,11,informational,state-tax,/tax-answers/capital-gains-tax-florida/,/guides/california-tax-guide/,"AI Overview, People also ask",45,0,3-5,80-150
+does california tax social security,3700,7,informational,state-tax,/tax-answers/does-california-tax-social-security/,/guides/california-tax-guide/,"AI Overview, People also ask",40,0,2-4,120-200
+is social security taxable in california,1100,11,informational,state-tax,/tax-answers/is-social-security-taxable-in-california/,/guides/california-tax-guide/,"AI Overview, People also ask",0,0,3-5,40-80
+inheritance tax california,1700,0,informational,state-tax,/tax-answers/inheritance-tax-california/,/guides/california-tax-guide/ | /tax-answers/california-inheritance-tax/,"AI Overview, People also ask",0,0,1-2,200-350
+california inheritance tax,1100,2,informational,state-tax,/tax-answers/california-inheritance-tax/,/guides/california-tax-guide/ | /tax-answers/inheritance-tax-california/,"AI Overview, People also ask",0,0,1-3,80-150
+prop 19 loopholes,1100,0,informational,state-tax,/tax-answers/prop-19-loopholes/,/guides/california-tax-guide/,"AI Overview, People also ask",0,0,1-2,150-250
+tennessee sales tax,3700,9,informational,state-tax,/tax-answers/tennessee-sales-tax/,,"People also ask, Sitelinks",0,0,3-5,80-150
+afr rates,5300,7,informational,income-concepts,/tax-answers/afr-rates/,,"AI Overview, People also ask",17,5,3-5,100-200
+applicable federal rate,4200,12,informational,income-concepts,/tax-answers/afr-rates/,,"AI Overview, People also ask",22,0,3-5,80-150
+if i pay child support can i claim my child on taxes,2800,0,informational,child-family,/tax-answers/if-i-pay-child-support-can-i-claim-my-child-on-taxes/,/guides/child-tax-benefits/,"AI Overview, People also ask",21,3,1-3,200-350
+if you pay child support can you claim the child on your taxes 2026,2900,12,informational,child-family,/tax-answers/if-you-pay-child-support-can-you-claim-child-on-taxes-2026/,/guides/child-tax-benefits/,"AI Overview, People also ask",8,141,2-5,100-200
+can father claim child on taxes if child does not live with him,1300,5,informational,child-family,/tax-answers/can-father-claim-child-on-taxes/,/guides/child-tax-benefits/,"AI Overview, People also ask",0,0,2-4,60-100
+qualifying widower,2800,10,informational,child-family,/tax-answers/qualifying-widower/,/guides/child-tax-benefits/,"AI Overview, People also ask",66,0,2-5,50-100
+can you file head of household if married,1800,14,informational,child-family,/tax-answers/can-you-file-head-of-household-if-married/,/guides/child-tax-benefits/,"AI Overview, People also ask",50,0,3-6,40-80
+ai tax preparation,1100,52,commercial,commercial,/,,"AI Overview, Top stories, People also ask",1,404,3-8,30-80
+tax ai,700,37,commercial,commercial,/,,"Sitelinks, People also ask",1,271,3-8,20-60
+can ai do my taxes,500,17,informational,commercial,/,,"AI Overview, People also ask",4,61,2-5,20-50
+ai for taxes,300,37,commercial,commercial,/,,"AI Overview, People also ask",1,101,5-10,10-30
